@@ -4,7 +4,7 @@
 // Basis HTML-structuur
 ?><!DOCTYPE html>
 <html lang="Portfolio Hedwig Lejeune">
-<head>
+<>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Hedwig Lejeune</title>
@@ -30,6 +30,7 @@
             margin-bottom: 10px;
         }
     </style>
+php>
 </head>
 <body>
     <div class="container">
