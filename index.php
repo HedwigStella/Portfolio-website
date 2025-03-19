@@ -1,7 +1,3 @@
-<?php
-// index.php — Dit is het startpunt van je portfolio website
-?>
-
 <!DOCTYPE html>
 <html lang="nl">
 <head>
