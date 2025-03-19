@@ -57,10 +57,10 @@
     <header>
         <h1>Portfolio Hedwig Lejeune</h1>
         <nav>
-            <a href="#">Home</a>
-            <a href="#">Projecten</a>
+            <a href="#">Homepage</a>
+            <a href="#">Mijn projecten</a>
             <a href="#">Over Mij</a>
-            <a href="#">Contact</a>
+            <a href="#">Mijn cv</a>
         </nav>
     </header>
 
@@ -70,7 +70,7 @@
     </div>
 
     <footer>
-        &copy; <?php echo date("Y"); ?> Hedwig Lejeune. Alle rechten voorbehouden.
+        &copy; <?php echo date("Y"); ?>Mijn Portfolio, Hedwig Lejeune.
     </footer>
 </body>
 </html>
